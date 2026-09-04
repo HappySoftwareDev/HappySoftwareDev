@@ -20,7 +20,7 @@ I bridge the gap between complex web development and strategic business growth. 
     *An officially published, open-source WordPress plugin that tracks revenue, custom operational expenses, and net profit margins per product to deliver data-driven financial insights for e-commerce store owners.*
 *   **[WhatsApp Omni-Channel WooCommerce Automation Engine](https://github.com/HappySoftwareDev/whatsapp-woocommerce-automation)**  
     *A technical blueprint for an end-to-end conversational commerce system. Features a custom WordPress plugin that bridges WooCommerce with WATI.io to handle full catalog browsing, customer service routing, and automated checkouts over WhatsApp.*
-*   **[International Dropshipping Store Architecture & Performance Guide](LINK_TO_YOUR_REPO)**  
+*   **[International Dropshipping Store Architecture & Performance Guide](https://github.com/HappySoftwareDev/custom-wordpress-dropshipping-architecture)**  
     *An architectural case study detailing a lean, high-efficiency dropshipping framework optimized for North American and Australasian markets. Highlights custom configurations for DSers, Trackship, Advanced Shipment Tracking, and optimized payment fallback logic.*
 *   **[Core-PHP On-Demand Logistics & Booking Web Application](LINK_TO_YOUR_REPO)**  
     *A retrospective look at a custom, proprietary logistics web app engineered from scratch for an on-demand delivery startup (which has since been successfully acquired). Covers dispatch logic, order routing, custom billing, and automated vehicle dispatch workflows.*
