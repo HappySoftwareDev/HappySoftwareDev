@@ -7,7 +7,7 @@ I bridge the gap between complex web development and strategic business growth. 
 
 ### 🛠️ Core Expertise & Tech Stack
 
-*   **CMS & E-Commerce:** WordPress Core, WooCommerce Ecosystem, SureCart, Global Dropshipping Infrastructures (Aliexpress, Amazon Seller Central), Custom Elementor Template Architecture.
+*   **CMS & E-Commerce:** WordPress Core, WooCommerce Ecosystem, SureCart, Global Dropshipping Infrastructures (Aliexpress, Amazon Seller Central), Technical Architecture Optimization for Elementor Ecosystems.
 *   **Backend & Server Management:** Core PHP (OOP), MySQL Database Optimization, REST APIs, Webhooks, Linux/cPanel Server Infrastructure, SSH Access.
 *   **Chatbots & Automation:** WATI.io, Botbiz, WhatsApp Business API Integration, Digital System Workflows & AI-Assisted R&D.
 *   **Payment & Telecom Integrations:** Stripe, PayPal, Paynow, Yoco, EFTPOS Banking, 543 Konse, 3rd Party Telecom Vendor APIs.
