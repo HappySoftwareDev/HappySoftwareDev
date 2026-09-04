@@ -7,10 +7,17 @@ I bridge the gap between complex web development and strategic business growth. 
 
 ### 🛠️ Core Expertise & Tech Stack
 
-*   **CMS & E-Commerce:** WordPress Core, WooCommerce Ecosystem, SureCart, Global Dropshipping Infrastructures, Custom Elementor Template Architecture.
-*   **Backend & Server Management:** Core PHP (OOP), MySQL Database Optimization, REST APIs, Webhooks, Linux/cPanel Server Infrastructure.
+*   **CMS & E-Commerce:** WordPress Core, WooCommerce Ecosystem, SureCart, Global Dropshipping Infrastructures (Aliexpress, Amazon Seller Central), Custom Elementor Template Architecture.
+*   **Backend & Server Management:** Core PHP (OOP), MySQL Database Optimization, REST APIs, Webhooks, Linux/cPanel Server Infrastructure, SSH Access.
 *   **Chatbots & Automation:** WATI.io, Botbiz, WhatsApp Business API Integration, Digital System Workflows & AI-Assisted R&D.
-*   **Payment & Telecom Integrations:** Stripe, PayPal, Yoco, Ozow, EFTPOS Banking, 3rd Party Telecom Vendor APIs.
+*   **Payment & Telecom Integrations:** Stripe, PayPal, Paynow, Yoco, EFTPOS Banking, 543 Konse, 3rd Party Telecom Vendor APIs.
+
+### 🧰 Tooling & Platform Controls
+
+*   **AI-Accelerated Engineering:** GitHub Copilot, Claude AI, Grok, ChatGPT, Visual Studio Code.
+*   **Cloud & Infrastructure Operations:** Cloudways, AWS Lightsail, Google Cloud Platform, Google Firebase (OTP Auth/Identity).
+*   **Server & Hosting Interfaces:** cPanel WHM, cPanel Command Terminal, phpMyAdmin, Local WordPress Studio, XAMPP.
+*   **Deployment Platforms:** Git 
 
 ---
 
@@ -39,5 +46,6 @@ As the **Lead Technical Consultant & Backend Developer**, my responsibilities in
 
 ### 📫 Let's Connect
 *   **Available for:** WordPress Technical Consulting, WhatsApp Conversational Commerce, API & Payment Gateway Integrations, Custom Plugin Development.
+*   **LinkedIn:** [https://linkedin.com/in/happy-zhou]
 *   **Agency Website:** [https://faithinfused.com](https://faithinfused.com)
 *   **Email:** [contact@faithinfused.com]
