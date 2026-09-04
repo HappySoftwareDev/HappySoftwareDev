@@ -1,7 +1,7 @@
 # Hi there! I'm Happy Zhou
-### WordPress Technical Consultant | Full-Stack Developer | Infrastructure & Automation Expert
+### WordPress Technical Consultant | Backend WordPress Developer | Infrastructure & Automation Expert
 
-I bridge the gap between complex web development and strategic business growth. As an experienced full-stack developer and agency co-owner, I specialize in building high-performance WordPress architectures, custom plugins, mission-critical API integrations, and custom Core-PHP platforms that drive revenue.
+I bridge the gap between complex web development and strategic business growth. As an experienced WordPress backend developer and agency co-owner, I specialize in building high-performance WordPress architectures, custom plugins, mission-critical API integrations, and custom Core-PHP platforms that drive revenue.
 
 ---
 
@@ -10,7 +10,7 @@ I bridge the gap between complex web development and strategic business growth. 
 *   **CMS & E-Commerce:** WordPress Core, WooCommerce Ecosystem, SureCart, Global Dropshipping Infrastructures, Custom Elementor Template Architecture.
 *   **Backend & Server Management:** Core PHP (OOP), MySQL Database Optimization, REST APIs, Webhooks, Linux/cPanel Server Infrastructure.
 *   **Chatbots & Automation:** WATI.io, Botbiz, WhatsApp Business API Integration, Digital System Workflows & AI-Assisted R&D.
-*   **Payment & Telecom Integrations:** Stripe, PayPal, Yoco, EFTPOS Banking, 3rd Party Telecom Vendor APIs.
+*   **Payment & Telecom Integrations:** Stripe, PayPal, Yoco, Ozow, EFTPOS Banking, 3rd Party Telecom Vendor APIs.
 
 ---
 
@@ -18,8 +18,8 @@ I bridge the gap between complex web development and strategic business growth. 
 
 *   **[FaithInfused Profit Analyzer for WooCommerce](https://wordpress.org)**  
     *An officially published, open-source WordPress plugin that tracks revenue, custom operational expenses, and net profit margins per product to deliver data-driven financial insights for e-commerce store owners.*
-*   **[WhatsApp Omni-Channel WooCommerce Automation Engine](LINK_TO_YOUR_REPO)**  
-    *A technical blueprint for an end-to-end conversational commerce system. Features a custom WordPress plugin that bridges WooCommerce with WATI.io/Botbiz to handle full catalog browsing, customer service routing, and automated checkouts over WhatsApp.*
+*   **[WhatsApp Omni-Channel WooCommerce Automation Engine](https://github.com/HappySoftwareDev/whatsapp-woocommerce-automation)**  
+    *A technical blueprint for an end-to-end conversational commerce system. Features a custom WordPress plugin that bridges WooCommerce with WATI.io to handle full catalog browsing, customer service routing, and automated checkouts over WhatsApp.*
 *   **[International Dropshipping Store Architecture & Performance Guide](LINK_TO_YOUR_REPO)**  
     *An architectural case study detailing a lean, high-efficiency dropshipping framework optimized for North American and Australasian markets. Highlights custom configurations for DSers, Trackship, Advanced Shipment Tracking, and optimized payment fallback logic.*
 *   **[Core-PHP On-Demand Logistics & Booking Web Application](LINK_TO_YOUR_REPO)**  
